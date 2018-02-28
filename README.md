@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jennaFay/william-sonoma.svg?branch=master)](https://travis-ci.org/jennaFay/william-sonoma)
+
 # william-sonoma
 Welcome to the Williams-Sonoma Markup 
 
