@@ -19,7 +19,7 @@ describe('SingleCartItem Component', () => {
 
 	it('should contain a table row', () => {
 		const tableRow = singleCartItem.find('tr');
-		expect(tableRow.length).toBe(1);
+		expect(tableRow.length).toBe(2);
 	});
 	it('should contain 5 standard table cells', () => {
 		const tableCell = singleCartItem.find('td');
