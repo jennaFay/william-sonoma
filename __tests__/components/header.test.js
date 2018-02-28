@@ -8,7 +8,7 @@ describe('Header Component', () => {
 
 	it('should have a nav with id of top', () => {
 		const nav = headerComponent.find('nav#top');
-		expect(nav.length).toBe(1);
+		expect(nav.length).toBe(2);
 	});
 	it('should have an unordered list with a class of list-inline', () => {
 		expect(unorderedList.length).toBe(1);
