@@ -7,7 +7,7 @@ script:
 - npm run prod
 - npm run test
 notifications:
-slack: yamanotestudios:yv02OmOp8JQeGOjgz9h9Fhh1
+slack: yamanotestudios:dG83TLAhuzOlxq1cx6ezLdnR
 branches:
   only:
   - master
